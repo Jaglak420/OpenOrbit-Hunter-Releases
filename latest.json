@@ -1,9 +1,9 @@
 {
   "product": "OpenOrbit Hunter",
-  "version": "0.2.8",
-  "release_tag": "v0.2.8",
+  "version": "0.2.9",
+  "release_tag": "v0.2.9",
   "asset_name": "OpenOrbit-Hunter.exe",
-  "download_url": "https://github.com/Jaglak420/OpenOrbit-Hunter-Releases/releases/download/v0.2.8/OpenOrbit-Hunter.exe",
-  "sha256": "dfb7014d3de0a57a30d7e4c6cf9f756d8608ffe2bf3f6b26c039997c5da1c609",
+  "download_url": "https://github.com/Jaglak420/OpenOrbit-Hunter-Releases/releases/download/v0.2.9/OpenOrbit-Hunter.exe",
+  "sha256": "7bc2efff3abf9e8d3c46b9c408634bd170c05dc45d870a55db9d1e010aad5805",
   "notes": "Naprawa automatycznego instalatora aktualizacji Windows."
 }
