@@ -1,9 +1,9 @@
 {
   "product": "OpenOrbit Hunter",
-  "version": "0.2.3",
-  "release_tag": "v0.2.3",
+  "version": "0.2.4",
+  "release_tag": "v0.2.4",
   "asset_name": "OpenOrbit-Hunter.exe",
-  "download_url": "https://github.com/Jaglak420/OpenOrbit-Hunter-Releases/releases/download/v0.2.3/OpenOrbit-Hunter.exe",
-  "sha256": "9ecb44d675db5c73c845c6fb0d2f6ceae9fdaa42782be691d9f02c0e81c0753e",
-  "notes": "Diagnostyka instalatora, bezpieczniejsze uruchamianie PowerShell i dołączenie bibliotek runtime."
+  "download_url": "https://github.com/Jaglak420/OpenOrbit-Hunter-Releases/releases/download/v0.2.4/OpenOrbit-Hunter.exe",
+  "sha256": "4fcbe65db0aa709f6039ca4358d96ad459d4a359bd1a184583338d45c76b1a46",
+  "notes": "Test aktualizacji automatycznej z 0.2.3 do 0.2.4; logowanie instalatora i bezpieczna podmiana EXE."
 }
