@@ -1,9 +1,9 @@
 {
   "product": "OpenOrbit Hunter",
-  "version": "0.2.1",
-  "release_tag": "v0.2.1",
+  "version": "0.2.2",
+  "release_tag": "v0.2.2",
   "asset_name": "OpenOrbit-Hunter.exe",
-  "download_url": "https://github.com/Jaglak420/OpenOrbit-Hunter-Releases/releases/download/v0.2.1/OpenOrbit-Hunter.exe",
-  "sha256": "d3806711f1b470302d292c6948812a396d9a36ef346408cb1d3b563fb74adea9",
-  "notes": "Test automatycznej aktualizacji z wersji 0.2.0 do 0.2.1."
+  "download_url": "https://github.com/Jaglak420/OpenOrbit-Hunter-Releases/releases/download/v0.2.2/OpenOrbit-Hunter.exe",
+  "sha256": "3ad138e065d783be9a198bea4c949aa20af353c1353f119b73f4cd7290950e67",
+  "notes": "Poprawka instalatora aktualizacji: zamykanie wszystkich procesów Huntera i bezpieczna podmiana EXE."
 }
