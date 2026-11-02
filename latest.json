@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "release_tag": "v0.2.0",
   "asset_name": "OpenOrbit-Hunter.exe",
-  "download_url": "",
-  "sha256": "",
-  "notes": "Pierwsze wydanie z modułem sprawdzania aktualizacji. Gotowy instalator EXE zostanie opublikowany przez GitHub Actions."
+  "download_url": "https://github.com/Jaglak420/OpenOrbit-Hunter-Releases/releases/download/v0.2.0/OpenOrbit-Hunter.exe",
+  "sha256": "1327b9b1fb1e11a1d2a2bce4f3084a67114b0b9e4fb731b2a3d9c6b536b55ddd",
+  "notes": "First public EXE release with GitHub update checking."
 }
