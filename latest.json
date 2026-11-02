@@ -1,9 +1,9 @@
 {
   "product": "OpenOrbit Hunter",
-  "version": "0.2.7",
-  "release_tag": "v0.2.7",
+  "version": "0.2.8",
+  "release_tag": "v0.2.8",
   "asset_name": "OpenOrbit-Hunter.exe",
-  "download_url": "https://github.com/Jaglak420/OpenOrbit-Hunter-Releases/releases/download/v0.2.7/OpenOrbit-Hunter.exe",
-  "sha256": "90f020e062fc2a5e0d5f5b1ccc1ede96c46c97b78959e7efd24affc7d2f6aca4",
-  "notes": "Poprawka pakowania bibliotek Microsoft Visual C++ wymaganych do uruchomienia aplikacji na czystym Windows."
+  "download_url": "https://github.com/Jaglak420/OpenOrbit-Hunter-Releases/releases/download/v0.2.8/OpenOrbit-Hunter.exe",
+  "sha256": "dfb7014d3de0a57a30d7e4c6cf9f756d8608ffe2bf3f6b26c039997c5da1c609",
+  "notes": "Naprawa automatycznego instalatora aktualizacji Windows."
 }
