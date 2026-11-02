@@ -1,9 +1,9 @@
 {
   "product": "OpenOrbit Hunter",
-  "version": "0.2.6",
-  "release_tag": "v0.2.6",
+  "version": "0.2.7",
+  "release_tag": "v0.2.7",
   "asset_name": "OpenOrbit-Hunter.exe",
-  "download_url": "https://github.com/Jaglak420/OpenOrbit-Hunter-Releases/releases/download/v0.2.6/OpenOrbit-Hunter.exe",
-  "sha256": "a85f69a4f8faed314e00d387fe2d01ba2b642d58fe42f5c55221111ba75e9ad5",
-  "notes": "Test automatycznego aktualizatora: odłączony instalator PowerShell, oczekiwanie na zamknięcie aplikacji i szczegółowy dziennik instalacji."
+  "download_url": "https://github.com/Jaglak420/OpenOrbit-Hunter-Releases/releases/download/v0.2.7/OpenOrbit-Hunter.exe",
+  "sha256": "90f020e062fc2a5e0d5f5b1ccc1ede96c46c97b78959e7efd24affc7d2f6aca4",
+  "notes": "Poprawka pakowania bibliotek Microsoft Visual C++ wymaganych do uruchomienia aplikacji na czystym Windows."
 }
