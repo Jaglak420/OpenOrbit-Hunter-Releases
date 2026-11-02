@@ -1,9 +1,9 @@
 {
   "product": "OpenOrbit Hunter",
-  "version": "0.2.0",
-  "release_tag": "v0.2.0",
+  "version": "0.2.1",
+  "release_tag": "v0.2.1",
   "asset_name": "OpenOrbit-Hunter.exe",
-  "download_url": "https://github.com/Jaglak420/OpenOrbit-Hunter-Releases/releases/download/v0.2.0/OpenOrbit-Hunter.exe",
-  "sha256": "1327b9b1fb1e11a1d2a2bce4f3084a67114b0b9e4fb731b2a3d9c6b536b55ddd",
-  "notes": "First public EXE release with GitHub update checking."
+  "download_url": "https://github.com/Jaglak420/OpenOrbit-Hunter-Releases/releases/download/v0.2.1/OpenOrbit-Hunter.exe",
+  "sha256": "d3806711f1b470302d292c6948812a396d9a36ef346408cb1d3b563fb74adea9",
+  "notes": "Test automatycznej aktualizacji z wersji 0.2.0 do 0.2.1."
 }
